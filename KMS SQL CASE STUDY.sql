@@ -1,5 +1,5 @@
------ DSA Capstone Project 
------Candidate Name: Omotosho Johnson Oluwapamilerin 
+----- DSA Capstone Project ON SQL
+----- Omotosho Johnson Oluwapamilerin 
 -----Kultra Mega Stores Inventory Case Study
 
 
