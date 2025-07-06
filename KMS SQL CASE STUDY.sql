@@ -1,6 +1,6 @@
 ----- DSA Capstone Project 
+-----Candidate Name: Omotosho Johnson Oluwapamilerin 
 -----Kultra Mega Stores Inventory Case Study
------Candidate Name: Adeiye Akande 
 
 
 ----1. Product Category With The Highest Sale is Technology with Total sales of 5984248.18199998
